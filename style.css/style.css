@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+}
+ul{
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align: center;
+}
+#button{
+    font-size: 20px;
+    margin-left: 45%;
+}
